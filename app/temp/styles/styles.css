@@ -1106,6 +1106,7 @@ Instead edit gulp/templates/sprite */
 .site-footer__text {
 		display: block;
 		margin-bottom: 1rem;
+		font-weight: 200;
 
 	}
 
